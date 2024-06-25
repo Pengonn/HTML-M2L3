@@ -1,0 +1,30 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; /* Yazı tipi ailesi */
+    font-size: 15px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: #4d4a4a; /* Web sayfasının arka plan rengi */
+    color: #000000; /* Metin rengi */
+}
+
+h1 {
+    color: #00a800; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h2 {
+    color: #e0a90f;
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+
+p {
+    color: #FD98FB;
+    font-size: 17px;
+    font-family: 'Inter';
+}
+
+li {
+    color : #FD98FB;
+    font-size: 17px;
+    font-family: 'Inter';
+}
